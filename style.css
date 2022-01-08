@@ -30,3 +30,9 @@ body{
 .div_volume{
     float: right;
 }
+
+canvas {
+    border-radius: 10px;
+    border: 5px dashed cornflowerblue;
+    margin-top: 100px;
+}
